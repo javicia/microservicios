@@ -1,0 +1,30 @@
+ # Ignorar directorios
+.VirtualBox/
+.android/
+.cache/
+.config/
+.dotnet/
+.eclipse/
+.vscode/
+.yawcam/
+AppData/
+Documents/
+Downloads/
+OneDrive/
+Pictures/
+Saved Games/
+Videos/
+VirtualBox VMs/
+eclipse-workspace/
+eclipse/
+springSecurity/
+
+# Ignorar archivos específicos
+.angular-config.json
+.bash_history
+.gitconfig
+.lesshst
+.ntuser.dat.LOG1
+.ntuser.dat.LOG2
+.ntuser.ini
+portafolio/
