@@ -12,7 +12,7 @@ eureka:
 
 spring:
   cloud:
-    gateway: 
+    gateway:
       discovery:
         locator:
           enable: true
